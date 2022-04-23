@@ -1,0 +1,12 @@
+problemas
+
+-busqueda de odontologos
+y doctores - siempre te da que no lo encuentra
+
+-busqueda de empleados
+
+-ingreso de pacientes
+
+
+tomografia
+1 caso sin informe(solo cd)

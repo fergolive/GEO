@@ -1,0 +1,10 @@
+D:\Ori2\GEO\GEO\ServicioRemotingaLogica\bin\Debug\ServicioRemotingaLogica.dll
+D:\Ori2\GEO\GEO\ServicioRemotingaLogica\bin\Debug\ServicioRemotingaLogica.pdb
+D:\Ori2\GEO\GEO\ServicioRemotingaLogica\obj\Debug\ResolveAssemblyReference.cache
+D:\Ori2\GEO\GEO\ServicioRemotingaLogica\obj\Debug\ServicioRemotingaLogica.dll
+D:\Ori2\GEO\GEO\ServicioRemotingaLogica\obj\Debug\ServicioRemotingaLogica.pdb
+C:\Users\negro\Desktop\GEO\ServicioRemotingaLogica\bin\Debug\ServicioRemotingaLogica.dll
+C:\Users\negro\Desktop\GEO\ServicioRemotingaLogica\bin\Debug\ServicioRemotingaLogica.pdb
+C:\Users\negro\Desktop\GEO\ServicioRemotingaLogica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\negro\Desktop\GEO\ServicioRemotingaLogica\obj\Debug\ServicioRemotingaLogica.dll
+C:\Users\negro\Desktop\GEO\ServicioRemotingaLogica\obj\Debug\ServicioRemotingaLogica.pdb

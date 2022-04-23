@@ -1,0 +1,55 @@
+D:\Ori2\GEO\GEO\Logica\bin\Debug\Logica.dll
+D:\Ori2\GEO\GEO\Logica\bin\Debug\Logica.pdb
+D:\Ori2\GEO\GEO\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Ori2\GEO\GEO\Logica\bin\Debug\Persistencia.dll
+D:\Ori2\GEO\GEO\Logica\bin\Debug\ServicioRemoting.dll
+D:\Ori2\GEO\GEO\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Ori2\GEO\GEO\Logica\bin\Debug\Persistencia.pdb
+D:\Ori2\GEO\GEO\Logica\bin\Debug\ServicioRemoting.pdb
+D:\Ori2\GEO\GEO\Logica\obj\Debug\ResolveAssemblyReference.cache
+D:\Ori2\GEO\GEO\Logica\obj\Debug\Logica.dll
+D:\Ori2\GEO\GEO\Logica\obj\Debug\Logica.pdb
+C:\Users\negro\Desktop\GEO\Logica\bin\Debug\Logica.dll
+C:\Users\negro\Desktop\GEO\Logica\bin\Debug\Logica.pdb
+C:\Users\negro\Desktop\GEO\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\negro\Desktop\GEO\Logica\bin\Debug\Persistencia.dll
+C:\Users\negro\Desktop\GEO\Logica\bin\Debug\ServicioRemoting.dll
+C:\Users\negro\Desktop\GEO\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\negro\Desktop\GEO\Logica\bin\Debug\Persistencia.pdb
+C:\Users\negro\Desktop\GEO\Logica\bin\Debug\ServicioRemoting.pdb
+C:\Users\negro\Desktop\GEO\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\negro\Desktop\GEO\Logica\obj\Debug\Logica.dll
+C:\Users\negro\Desktop\GEO\Logica\obj\Debug\Logica.pdb
+D:\Compartir\Trabajos\GEO\Logica\bin\Debug\Logica.dll
+D:\Compartir\Trabajos\GEO\Logica\bin\Debug\Logica.pdb
+D:\Compartir\Trabajos\GEO\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO\Logica\bin\Debug\ServicioRemoting.dll
+D:\Compartir\Trabajos\GEO\Logica\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO\Logica\bin\Debug\ServicioRemoting.pdb
+D:\Compartir\Trabajos\GEO\Logica\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO\Logica\obj\Debug\Logica.dll
+D:\Compartir\Trabajos\GEO\Logica\obj\Debug\Logica.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\bin\Debug\Logica.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\bin\Debug\Logica.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\bin\Debug\EntidadesCompartidas.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\bin\Debug\ServicioRemoting.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\bin\Debug\Persistencia.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\bin\Debug\EntidadesCompartidas.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\bin\Debug\ServicioRemoting.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\bin\Debug\Persistencia.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\obj\Debug\ResolveAssemblyReference.cache
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\obj\Debug\Logica.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Logica\obj\Debug\Logica.pdb
+D:\Compartir\Trabajos\GEO\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\GEO - copia\Logica\bin\Debug\Logica.dll
+D:\Compartir\Trabajos\GEO - copia\Logica\bin\Debug\Logica.pdb
+D:\Compartir\Trabajos\GEO - copia\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO - copia\Logica\bin\Debug\ServicioRemoting.dll
+D:\Compartir\Trabajos\GEO - copia\Logica\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO - copia\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO - copia\Logica\bin\Debug\ServicioRemoting.pdb
+D:\Compartir\Trabajos\GEO - copia\Logica\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO - copia\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\GEO - copia\Logica\obj\Debug\Logica.dll
+D:\Compartir\Trabajos\GEO - copia\Logica\obj\Debug\Logica.pdb

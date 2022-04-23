@@ -1,0 +1,17 @@
+D:\Compartir\Trabajos\GEO\Prueba\bin\Debug\Prueba.exe
+D:\Compartir\Trabajos\GEO\Prueba\bin\Debug\Prueba.pdb
+D:\Compartir\Trabajos\GEO\Prueba\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO\Prueba\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO\Prueba\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO\Prueba\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO\Prueba\obj\x86\Debug\Prueba.exe
+D:\Compartir\Trabajos\GEO\Prueba\obj\x86\Debug\Prueba.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Prueba\bin\Debug\Prueba.exe
+\\TEFI-PC\Compartir\Trabajos\GEO\Prueba\bin\Debug\Prueba.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Prueba\bin\Debug\EntidadesCompartidas.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Prueba\bin\Debug\Persistencia.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Prueba\bin\Debug\EntidadesCompartidas.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Prueba\bin\Debug\Persistencia.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Prueba\obj\x86\Debug\ResolveAssemblyReference.cache
+\\TEFI-PC\Compartir\Trabajos\GEO\Prueba\obj\x86\Debug\Prueba.exe
+\\TEFI-PC\Compartir\Trabajos\GEO\Prueba\obj\x86\Debug\Prueba.pdb

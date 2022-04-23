@@ -1,0 +1,31 @@
+recepcion : que no tengan estudios  (X)
+
+
+
+nemo dock viewer : agregarle check box "otro programa" (x)  , ricket frontal, quirurgico
+		   check modelo, observaciones
+
+
+busqueda :    busqueda de quien hizo la fotografias y por fecha
+otra opcion : estadisticas de odontologos
+
+
+span y nemo juntos en uno solo.. (x)
+
+fotografias/ borrar: clinica(x), tipo de foto(x), identikit(x), estudio(x), chev cd(x),
+                     visualizacion(x)
+
+
+-Ayuda-
+
+Menu / Listados
+
+-Listado de envios pendientes: envios pendientes hasta el dia de 
+hoy o sea que todavia no se enviarion o que son para enviar el dia de hoy
+
+-Envios y retiros finalizados: listado de envios y retiros ya enviados 
+con la posibilidad de marcar quien lo retiro o lo envio
+
+-Estudios: busqueda de estudios con la posibilidad de agregar uno nuevo 
+o editar el mismo
+

@@ -1,0 +1,218 @@
+D:\Ori2\GEO\GEO\GEO\bin\Debug\GEO.exe
+D:\Ori2\GEO\GEO\GEO\bin\Debug\GEO.pdb
+D:\Ori2\GEO\GEO\GEO\bin\Debug\EntidadesCompartidas.dll
+D:\Ori2\GEO\GEO\GEO\bin\Debug\Logica.dll
+D:\Ori2\GEO\GEO\GEO\bin\Debug\Persistencia.dll
+D:\Ori2\GEO\GEO\GEO\bin\Debug\ServicioRemoting.dll
+D:\Ori2\GEO\GEO\GEO\bin\Debug\EntidadesCompartidas.pdb
+D:\Ori2\GEO\GEO\GEO\bin\Debug\Logica.pdb
+D:\Ori2\GEO\GEO\GEO\bin\Debug\Persistencia.pdb
+D:\Ori2\GEO\GEO\GEO\bin\Debug\ServicioRemoting.pdb
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmCarpeta.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmEmpledo.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmOdontologo.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmPaciente.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.TransfPaciente.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Fotografia.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Modelo.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.NemoDocViewer.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.OptParaImplante.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Span.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Tomografia.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.UserControl1.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.AmpliarFoto.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.ListarEstudiosPendientes.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.Logueo.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.formMenu.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\GEO.Properties.Resources.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\GEO.exe
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\GEO.pdb
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\GEO.ExportarOdontologos.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.ModificarEnviosyRetiros.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.EnviosyRetirosDiarios.resources
+D:\Ori2\GEO\GEO\GEO\obj\x86\Debug\GEO.tcpstringform.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\GEO.exe
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\GEO.pdb
+C:\Users\negro\Desktop\GEO\GEO\bin\Debug\GEO.exe
+C:\Users\negro\Desktop\GEO\GEO\bin\Debug\GEO.pdb
+C:\Users\negro\Desktop\GEO\GEO\bin\Debug\EntidadesCompartidas.dll
+C:\Users\negro\Desktop\GEO\GEO\bin\Debug\Logica.dll
+C:\Users\negro\Desktop\GEO\GEO\bin\Debug\Persistencia.dll
+C:\Users\negro\Desktop\GEO\GEO\bin\Debug\ServicioRemoting.dll
+C:\Users\negro\Desktop\GEO\GEO\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\negro\Desktop\GEO\GEO\bin\Debug\Logica.pdb
+C:\Users\negro\Desktop\GEO\GEO\bin\Debug\Persistencia.pdb
+C:\Users\negro\Desktop\GEO\GEO\bin\Debug\ServicioRemoting.pdb
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmCarpeta.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmEmpledo.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmOdontologo.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmPaciente.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.TransfPaciente.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Fotografia.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Modelo.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.NemoDocViewer.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.OptParaImplante.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Span.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Tomografia.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.UserControl1.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\GEO.ExportarOdontologos.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.AmpliarFoto.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.ModificarEnviosyRetiros.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.EnviosyRetirosDiarios.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.ListarEstudiosPendientes.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.Logueo.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\OriTrabajos.formMenu.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\GEO.Properties.Resources.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\GEO.tcpstringform.resources
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\negro\Desktop\GEO\GEO\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.exe
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.pdb
+D:\Compartir\Trabajos\GEO\GEO\bin\Debug\GEO.exe
+D:\Compartir\Trabajos\GEO\GEO\bin\Debug\GEO.pdb
+D:\Compartir\Trabajos\GEO\GEO\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO\GEO\bin\Debug\Logica.dll
+D:\Compartir\Trabajos\GEO\GEO\bin\Debug\ServicioRemoting.dll
+D:\Compartir\Trabajos\GEO\GEO\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO\GEO\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO\GEO\bin\Debug\Logica.pdb
+D:\Compartir\Trabajos\GEO\GEO\bin\Debug\ServicioRemoting.pdb
+D:\Compartir\Trabajos\GEO\GEO\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmCarpeta.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmEmpledo.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmOdontologo.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmPaciente.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.TransfPaciente.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Fotografia.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Modelo.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.NemoDocViewer.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.OptParaImplante.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Span.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Tomografia.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.UserControl1.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.ExportarOdontologos.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.AmpliarFoto.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.ModificarEnviosyRetiros.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.EnviosyRetirosDiarios.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.ListarEstudiosPendientes.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.Logueo.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.formMenu.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Properties.Resources.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.tcpstringform.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.exe
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.pdb
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ABM.abmCarpeta.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ABM.abmEmpledo.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ABM.abmOdontologo.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ABM.abmPaciente.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ABM.TransfPaciente.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Fotografia.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Modelo.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.NemoDocViewer.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.OptParaImplante.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Span.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Tomografia.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.UserControl1.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.ExportarOdontologos.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.LISTAS.AmpliarFoto.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.LISTAS.ModificarEnviosyRetiros.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.LISTAS.EnviosyRetirosDiarios.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.LISTAS.ListarEstudiosPendientes.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.Logueo.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.formMenu.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Properties.Resources.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.tcpstringform.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.ExportarPecientesFacturados.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.ABM.PopUpBusqueda.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Estudios.UserControl2.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Estudios.UserControl3.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.ABM.UserControlBusquedaPac.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Busqueda.FrmBusquedaOdontologo.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Busqueda.frmBusquedaPaciente.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.exe
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\bin\Debug\GEO.exe
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\bin\Debug\GEO.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\bin\Debug\EntidadesCompartidas.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\bin\Debug\Logica.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\bin\Debug\ServicioRemoting.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\bin\Debug\Persistencia.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\bin\Debug\EntidadesCompartidas.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\bin\Debug\Logica.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\bin\Debug\ServicioRemoting.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\bin\Debug\Persistencia.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\ResolveAssemblyReference.cache
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmCarpeta.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmEmpledo.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmOdontologo.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.abmPaciente.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.ExportarPecientesFacturados.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.ABM.PopUpBusqueda.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.ABM.UserControlBusquedaPac.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ABM.TransfPaciente.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Busqueda.FrmBusquedaOdontologo.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Busqueda.frmBusquedaPaciente.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Fotografia.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Modelo.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.NemoDocViewer.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.OptParaImplante.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Span.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.Tomografia.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.ESTUDIOS.UserControl1.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Estudios.UserControl2.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Estudios.UserControl3.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.ExportarOdontologos.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.AmpliarFoto.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.ModificarEnviosyRetiros.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.EnviosyRetirosDiarios.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.LISTAS.ListarEstudiosPendientes.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.Logueo.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\OriTrabajos.formMenu.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Properties.Resources.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.tcpstringform.resources
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+\\TEFI-PC\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Busqueda.busquedaOdontologo.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Busqueda.busquedaOdontologo.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.PreguntaConfirmacion.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.csproj.GenerateResource.Cache
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Estudios.UserControl4.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Busqueda.frmBusquedaEmpleados.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Busqueda.FrmPedirFactura.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Listas.FrmListadoDeEnviadosyRetirados.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Busqueda.FrmFiltroEnviados.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.ABM.ExportarBaseDeDatos.resources
+D:\Compartir\Trabajos\GEO\GEO\obj\x86\Debug\GEO.Estudios.UCetiqueta.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.ABM.ExportarBaseDeDatos.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\OriTrabajos.ABM.ExportarPecientesFacturados.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.ABM.PopUpBusqueda.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.ABM.UserControlBusquedaPac.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Busqueda.busquedaOdontologo.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Busqueda.frmBusquedaEmpleados.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Busqueda.FrmBusquedaOdontologo.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Busqueda.frmBusquedaPaciente.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Busqueda.FrmFiltroEnviados.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Busqueda.FrmPedirFactura.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Estudios.UserControl2.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Estudios.UserControl3.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Estudios.UserControl4.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Listas.FrmListadoDeEnviadosyRetirados.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.PreguntaConfirmacion.resources
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.csproj.GenerateResource.Cache
+D:\Compartir\Trabajos\GEO - copia\GEO\bin\Debug\GEO.exe
+D:\Compartir\Trabajos\GEO - copia\GEO\bin\Debug\GEO.pdb
+D:\Compartir\Trabajos\GEO - copia\GEO\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO - copia\GEO\bin\Debug\Logica.dll
+D:\Compartir\Trabajos\GEO - copia\GEO\bin\Debug\ServicioRemoting.dll
+D:\Compartir\Trabajos\GEO - copia\GEO\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO - copia\GEO\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO - copia\GEO\bin\Debug\Logica.pdb
+D:\Compartir\Trabajos\GEO - copia\GEO\bin\Debug\ServicioRemoting.pdb
+D:\Compartir\Trabajos\GEO - copia\GEO\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO - copia\GEO\obj\x86\Debug\GEO.Estadisticas.FrmGraficoVentas.resources

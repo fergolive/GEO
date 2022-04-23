@@ -1,0 +1,35 @@
+D:\Ori2\GEO\GEO\Persistencia\bin\Debug\Persistencia.dll
+D:\Ori2\GEO\GEO\Persistencia\bin\Debug\Persistencia.pdb
+D:\Ori2\GEO\GEO\Persistencia\bin\Debug\EntidadesCompartidas.dll
+D:\Ori2\GEO\GEO\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+D:\Ori2\GEO\GEO\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+D:\Ori2\GEO\GEO\Persistencia\obj\Debug\Persistencia.dll
+D:\Ori2\GEO\GEO\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\negro\Desktop\GEO\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\negro\Desktop\GEO\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\negro\Desktop\GEO\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\negro\Desktop\GEO\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\negro\Desktop\GEO\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\negro\Desktop\GEO\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\negro\Desktop\GEO\Persistencia\obj\Debug\Persistencia.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Persistencia\bin\Debug\Persistencia.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Persistencia\bin\Debug\Persistencia.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Persistencia\bin\Debug\EntidadesCompartidas.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+\\TEFI-PC\Compartir\Trabajos\GEO\Persistencia\obj\Debug\Persistencia.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Persistencia\obj\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO\Persistencia\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO\Persistencia\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO\Persistencia\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\GEO\Persistencia\obj\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO\Persistencia\obj\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO - copia\Persistencia\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO - copia\Persistencia\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO - copia\Persistencia\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO - copia\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO - copia\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\GEO - copia\Persistencia\obj\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO - copia\Persistencia\obj\Debug\Persistencia.pdb

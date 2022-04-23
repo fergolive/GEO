@@ -1,0 +1,23 @@
+D:\Ori2\GEO\GEO\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Ori2\GEO\GEO\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Ori2\GEO\GEO\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\Ori2\GEO\GEO\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Ori2\GEO\GEO\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\negro\Desktop\GEO\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\negro\Desktop\GEO\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\negro\Desktop\GEO\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\negro\Desktop\GEO\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\negro\Desktop\GEO\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+\\TEFI-PC\Compartir\Trabajos\GEO\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO - copia\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO - copia\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO - copia\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO - copia\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

@@ -1,0 +1,8 @@
+D:\Compartir\Trabajos\GEO\Pruebaas\bin\Debug\Pruebaas.exe
+D:\Compartir\Trabajos\GEO\Pruebaas\bin\Debug\Pruebaas.pdb
+D:\Compartir\Trabajos\GEO\Pruebaas\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO\Pruebaas\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO\Pruebaas\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO\Pruebaas\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO\Pruebaas\obj\x86\Debug\Pruebaas.exe
+D:\Compartir\Trabajos\GEO\Pruebaas\obj\x86\Debug\Pruebaas.pdb

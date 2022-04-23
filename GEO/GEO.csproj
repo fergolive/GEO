@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DFC535A3-BAE6-47BB-8752-C028178F42D7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GEO</RootNamespace>
+    <AssemblyName>GEO</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABM\abmCarpeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\abmCarpeta.designer.cs">
+      <DependentUpon>abmCarpeta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\abmEmpledo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\abmEmpledo.designer.cs">
+      <DependentUpon>abmEmpledo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\abmOdontologo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\abmOdontologo.designer.cs">
+      <DependentUpon>abmOdontologo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\abmPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\abmPaciente.designer.cs">
+      <DependentUpon>abmPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ExportarBaseDeDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\ExportarBaseDeDatos.Designer.cs">
+      <DependentUpon>ExportarBaseDeDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ExportarPecientesFacturados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\ExportarPecientesFacturados.Designer.cs">
+      <DependentUpon>ExportarPecientesFacturados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\PopUpBusqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\PopUpBusqueda.Designer.cs">
+      <DependentUpon>PopUpBusqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\PopUpBusqueda2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\PopUpBusqueda2.Designer.cs">
+      <DependentUpon>PopUpBusqueda2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\TransfPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\TransfPaciente.designer.cs">
+      <DependentUpon>TransfPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda\busquedaOdontologo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda\busquedaOdontologo.Designer.cs">
+      <DependentUpon>busquedaOdontologo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda\frmBusquedaEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda\frmBusquedaEmpleados.Designer.cs">
+      <DependentUpon>frmBusquedaEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda\FrmBusquedaOdontologo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda\FrmBusquedaOdontologo.Designer.cs">
+      <DependentUpon>FrmBusquedaOdontologo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda\frmBusquedaPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda\frmBusquedaPaciente.Designer.cs">
+      <DependentUpon>frmBusquedaPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda\FrmFiltroEnviados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda\FrmFiltroEnviados.Designer.cs">
+      <DependentUpon>FrmFiltroEnviados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda\FrmFiltroEstudios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda\FrmFiltroEstudios.Designer.cs">
+      <DependentUpon>FrmFiltroEstudios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busqueda\FrmPedirFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busqueda\FrmPedirFactura.Designer.cs">
+      <DependentUpon>FrmPedirFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estadisticas\FrmGraficoVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estadisticas\FrmGraficoVentas.Designer.cs">
+      <DependentUpon>FrmGraficoVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios\Fotografia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estudios\Fotografia.designer.cs">
+      <DependentUpon>Fotografia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios\Modelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estudios\Modelo.designer.cs">
+      <DependentUpon>Modelo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios\NemoDocViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estudios\NemoDocViewer.designer.cs">
+      <DependentUpon>NemoDocViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios\OptParaImplante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estudios\OptParaImplante.designer.cs">
+      <DependentUpon>OptParaImplante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios\Span.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estudios\Span.designer.cs">
+      <DependentUpon>Span.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios\Tomografia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estudios\Tomografia.designer.cs">
+      <DependentUpon>Tomografia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Estudios\UserControl1.designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios\UserControl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Estudios\UserControl2.Designer.cs">
+      <DependentUpon>UserControl2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios\UserControl3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Estudios\UserControl3.Designer.cs">
+      <DependentUpon>UserControl3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios\UserControl4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Estudios\UserControl4.Designer.cs">
+      <DependentUpon>UserControl4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExportarOdontologos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExportarOdontologos.Designer.cs">
+      <DependentUpon>ExportarOdontologos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\AmpliarFoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\AmpliarFoto.designer.cs">
+      <DependentUpon>AmpliarFoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\FrmListadoDeEnviadosyRetirados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\FrmListadoDeEnviadosyRetirados.Designer.cs">
+      <DependentUpon>FrmListadoDeEnviadosyRetirados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ModificarEnviosyRetiros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ModificarEnviosyRetiros.designer.cs">
+      <DependentUpon>ModificarEnviosyRetiros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\EnviosyRetirosDiarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\EnviosyRetirosDiarios.designer.cs">
+      <DependentUpon>EnviosyRetirosDiarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ListarEstudiosPendientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ListarEstudiosPendientes.designer.cs">
+      <DependentUpon>ListarEstudiosPendientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logueo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logueo.designer.cs">
+      <DependentUpon>Logueo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreguntaConfirmacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreguntaConfirmacion.Designer.cs">
+      <DependentUpon>PreguntaConfirmacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="tcpstringform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tcpstringform.Designer.cs">
+      <DependentUpon>tcpstringform.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ABM\abmCarpeta.resx">
+      <DependentUpon>abmCarpeta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\abmEmpledo.resx">
+      <DependentUpon>abmEmpledo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\abmOdontologo.resx">
+      <DependentUpon>abmOdontologo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\abmPaciente.resx">
+      <DependentUpon>abmPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\ExportarBaseDeDatos.resx">
+      <DependentUpon>ExportarBaseDeDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\ExportarPecientesFacturados.resx">
+      <DependentUpon>ExportarPecientesFacturados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\PopUpBusqueda.resx">
+      <DependentUpon>PopUpBusqueda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\PopUpBusqueda2.resx">
+      <DependentUpon>PopUpBusqueda2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\TransfPaciente.resx">
+      <DependentUpon>TransfPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda\busquedaOdontologo.resx">
+      <DependentUpon>busquedaOdontologo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda\frmBusquedaEmpleados.resx">
+      <DependentUpon>frmBusquedaEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda\FrmBusquedaOdontologo.resx">
+      <DependentUpon>FrmBusquedaOdontologo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda\frmBusquedaPaciente.resx">
+      <DependentUpon>frmBusquedaPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda\FrmFiltroEnviados.resx">
+      <DependentUpon>FrmFiltroEnviados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda\FrmFiltroEstudios.resx">
+      <DependentUpon>FrmFiltroEstudios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busqueda\FrmPedirFactura.resx">
+      <DependentUpon>FrmPedirFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estadisticas\FrmGraficoVentas.resx">
+      <DependentUpon>FrmGraficoVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudios\Fotografia.resx">
+      <DependentUpon>Fotografia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudios\Modelo.resx">
+      <DependentUpon>Modelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudios\NemoDocViewer.resx">
+      <DependentUpon>NemoDocViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudios\OptParaImplante.resx">
+      <DependentUpon>OptParaImplante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudios\Span.resx">
+      <DependentUpon>Span.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudios\Tomografia.resx">
+      <DependentUpon>Tomografia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudios\UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudios\UserControl2.resx">
+      <DependentUpon>UserControl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudios\UserControl3.resx">
+      <DependentUpon>UserControl3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estudios\UserControl4.resx">
+      <DependentUpon>UserControl4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExportarOdontologos.resx">
+      <DependentUpon>ExportarOdontologos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\AmpliarFoto.resx">
+      <DependentUpon>AmpliarFoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\FrmListadoDeEnviadosyRetirados.resx">
+      <DependentUpon>FrmListadoDeEnviadosyRetirados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ModificarEnviosyRetiros.resx">
+      <DependentUpon>ModificarEnviosyRetiros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\EnviosyRetirosDiarios.resx">
+      <DependentUpon>EnviosyRetirosDiarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ListarEstudiosPendientes.resx">
+      <DependentUpon>ListarEstudiosPendientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logueo.resx">
+      <DependentUpon>Logueo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreguntaConfirmacion.resx">
+      <DependentUpon>PreguntaConfirmacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tcpstringform.resx">
+      <DependentUpon>tcpstringform.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\IconDeleteWhite" />
+    <None Include="Resources\IconDescargar" />
+    <None Include="Resources\IconDescargar1" />
+    <None Include="Resources\IconDescargar2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EntidadesCompartidas\EntidadesCompartidas.csproj">
+      <Project>{A74F895E-C6D1-4762-8A27-5FC2814DB644}</Project>
+      <Name>EntidadesCompartidas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{C7088BDA-B579-4B10-B84C-77D3ACCF60BA}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon %286%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon %285%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon %288%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon %289%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon %2810%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon %2811%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon %2812%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon %283%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconSearch.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconTimer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconAdd.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconCarpeta.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconClean.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconDelete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconGraphic.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconOdontologo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconSave.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconSearch1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconStudy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconTimer1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconAdd1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconCarpeta1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconClean1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconDelete1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconGraphic1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconOdontologo1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconSave1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconSearch2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconStudy1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconTimer2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconListar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconVistaPrevia.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconImprimir.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconEdit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconEdit2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconCerrarSesion.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconUserActive.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconUseeer.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

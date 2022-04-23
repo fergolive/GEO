@@ -1,0 +1,50 @@
+D:\Ori2\GEO\GEO\Remoting\bin\Debug\Remoting.exe
+D:\Ori2\GEO\GEO\Remoting\bin\Debug\Remoting.pdb
+D:\Ori2\GEO\GEO\Remoting\bin\Debug\EntidadesCompartidas.dll
+D:\Ori2\GEO\GEO\Remoting\bin\Debug\EntidadesCompartidas.pdb
+D:\Ori2\GEO\GEO\Remoting\obj\Debug\ResolveAssemblyReference.cache
+D:\Ori2\GEO\GEO\Remoting\obj\Debug\Remoting.exe
+D:\Ori2\GEO\GEO\Remoting\obj\Debug\Remoting.pdb
+D:\Ori2\GEO\GEO\Remoting\bin\Debug\ConfiguracionRemoting.config
+D:\Ori2\GEO\GEO\Remoting\bin\Debug\Persistencia.dll
+D:\Ori2\GEO\GEO\Remoting\bin\Debug\Persistencia.pdb
+C:\Users\negro\Desktop\GEO\Remoting\bin\Debug\ConfiguracionRemoting.config
+C:\Users\negro\Desktop\GEO\Remoting\bin\Debug\Remoting.exe
+C:\Users\negro\Desktop\GEO\Remoting\bin\Debug\Remoting.pdb
+C:\Users\negro\Desktop\GEO\Remoting\bin\Debug\Persistencia.dll
+C:\Users\negro\Desktop\GEO\Remoting\bin\Debug\EntidadesCompartidas.dll
+C:\Users\negro\Desktop\GEO\Remoting\bin\Debug\Persistencia.pdb
+C:\Users\negro\Desktop\GEO\Remoting\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\negro\Desktop\GEO\Remoting\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\negro\Desktop\GEO\Remoting\obj\Debug\Remoting.exe
+C:\Users\negro\Desktop\GEO\Remoting\obj\Debug\Remoting.pdb
+D:\Compartir\Trabajos\GEO\Remoting\bin\Debug\Remoting.exe
+D:\Compartir\Trabajos\GEO\Remoting\bin\Debug\Remoting.pdb
+D:\Compartir\Trabajos\GEO\Remoting\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO\Remoting\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO\Remoting\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO\Remoting\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO\Remoting\obj\Debug\Remoting.exe
+D:\Compartir\Trabajos\GEO\Remoting\obj\Debug\Remoting.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Remoting\bin\Debug\ConfiguracionRemoting.config
+\\TEFI-PC\Compartir\Trabajos\GEO\Remoting\bin\Debug\Remoting.exe
+\\TEFI-PC\Compartir\Trabajos\GEO\Remoting\bin\Debug\Remoting.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Remoting\bin\Debug\Persistencia.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Remoting\bin\Debug\EntidadesCompartidas.dll
+\\TEFI-PC\Compartir\Trabajos\GEO\Remoting\bin\Debug\Persistencia.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Remoting\bin\Debug\EntidadesCompartidas.pdb
+\\TEFI-PC\Compartir\Trabajos\GEO\Remoting\obj\Debug\ResolveAssemblyReference.cache
+\\TEFI-PC\Compartir\Trabajos\GEO\Remoting\obj\Debug\Remoting.exe
+\\TEFI-PC\Compartir\Trabajos\GEO\Remoting\obj\Debug\Remoting.pdb
+D:\Compartir\Trabajos\GEO\Remoting\obj\Debug\Remoting.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\GEO\Remoting\bin\Debug\ConfiguracionRemoting.config
+D:\Compartir\Trabajos\GEO - copia\Remoting\bin\Debug\ConfiguracionRemoting.config
+D:\Compartir\Trabajos\GEO - copia\Remoting\bin\Debug\Remoting.exe
+D:\Compartir\Trabajos\GEO - copia\Remoting\bin\Debug\Remoting.pdb
+D:\Compartir\Trabajos\GEO - copia\Remoting\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO - copia\Remoting\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO - copia\Remoting\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO - copia\Remoting\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO - copia\Remoting\obj\Debug\Remoting.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\GEO - copia\Remoting\obj\Debug\Remoting.exe
+D:\Compartir\Trabajos\GEO - copia\Remoting\obj\Debug\Remoting.pdb

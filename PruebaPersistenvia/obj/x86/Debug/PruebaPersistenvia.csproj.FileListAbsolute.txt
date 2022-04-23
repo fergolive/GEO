@@ -1,0 +1,18 @@
+D:\Compartir\Trabajos\GEO\PruebaPersistenvia\bin\Debug\PruebaPersistenvia.exe
+D:\Compartir\Trabajos\GEO\PruebaPersistenvia\bin\Debug\PruebaPersistenvia.pdb
+D:\Compartir\Trabajos\GEO\PruebaPersistenvia\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO\PruebaPersistenvia\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO\PruebaPersistenvia\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO\PruebaPersistenvia\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO\PruebaPersistenvia\obj\x86\Debug\PruebaPersistenvia.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\GEO\PruebaPersistenvia\obj\x86\Debug\PruebaPersistenvia.exe
+D:\Compartir\Trabajos\GEO\PruebaPersistenvia\obj\x86\Debug\PruebaPersistenvia.pdb
+D:\Compartir\Trabajos\GEO - copia\PruebaPersistenvia\bin\Debug\PruebaPersistenvia.exe
+D:\Compartir\Trabajos\GEO - copia\PruebaPersistenvia\bin\Debug\PruebaPersistenvia.pdb
+D:\Compartir\Trabajos\GEO - copia\PruebaPersistenvia\bin\Debug\EntidadesCompartidas.dll
+D:\Compartir\Trabajos\GEO - copia\PruebaPersistenvia\bin\Debug\Persistencia.dll
+D:\Compartir\Trabajos\GEO - copia\PruebaPersistenvia\bin\Debug\EntidadesCompartidas.pdb
+D:\Compartir\Trabajos\GEO - copia\PruebaPersistenvia\bin\Debug\Persistencia.pdb
+D:\Compartir\Trabajos\GEO - copia\PruebaPersistenvia\obj\x86\Debug\PruebaPersistenvia.csprojResolveAssemblyReference.cache
+D:\Compartir\Trabajos\GEO - copia\PruebaPersistenvia\obj\x86\Debug\PruebaPersistenvia.exe
+D:\Compartir\Trabajos\GEO - copia\PruebaPersistenvia\obj\x86\Debug\PruebaPersistenvia.pdb
